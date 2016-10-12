@@ -1,5 +1,5 @@
 # Intro to Programming with Python
 
-This is a sample application
+Final project created by Edward Dougherty and Michael Wong
 
-by [Michael Wong](http://michaelwong.com)
+[Cick here for link to final project](https://cbs-ipp-g1.herokuapp.com/)
