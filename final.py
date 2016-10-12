@@ -2,6 +2,8 @@ from flask import Flask, render_template, request
 import giphypop
 app = Flask(__name__)
 
+g = giphypop.Giphy()
+
 def header_results(results):
     return 'GIFs tagged with "{}"'.format(results)
 
@@ -17,6 +19,7 @@ def about():
 def results():
     terms = request.values.get('terms')
     header = header_results(terms)
-    return render_template('results.html', header=header)
+    results = g.search(terms)
+    return render_template('results.html', header=header, results=results, terms=terms)
 
 app.run(debug=True)
