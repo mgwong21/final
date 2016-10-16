@@ -1,5 +1,7 @@
 # Intro to Programming with Python
 
-Final project created by Edward Dougherty and Michael Wong
+This application is a serach tool for searching the website Giphy.com utilizing python and html to collect Gifs tagged with your search terms and show them to you on our page. 
 
-[Cick here for link to final project](https://cbs-ipp-g1.herokuapp.com/)
+We have used Heroku to host our app. To access the app over the internet please [click here.](https://cbs-ipp-g1.herokuapp.com)
+
+by [Michael Wong](https://www.linkedin.com/in/michaelgwong) and [Edward Dougherty](https://www.linkedin.com/in/edwarddoughertyiii)o
