@@ -4,4 +4,4 @@ This application is a serach tool for searching the website Giphy.com utilizing 
 
 We have used Heroku to host our app. To access the app over the internet please [click here.](https://cbs-ipp-g1.herokuapp.com)
 
-by [Michael Wong](https://www.linkedin.com/in/michaelgwong) and [Edward Dougherty](https://www.linkedin.com/in/edwarddoughertyiii)o
+by [Michael Wong](https://www.linkedin.com/in/michaelgwong) and [Edward Dougherty](https://www.linkedin.com/in/edwarddoughertyiii)
